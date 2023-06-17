@@ -24,6 +24,12 @@
     <content type="html"><![CDATA[<h1 id="Test-Post"><a href="#Test-Post" class="headerlink" title="Test Post"></a>Test Post</h1><p>As the first post here</p><p>I’d like to say:</p><p><strong>The quick brown fox jumps over the lazy dog.</strong></p>]]></content>
     
     
+    <categories>
+      
+      <category>Test</category>
+      
+    </categories>
+    
     
   </entry>
   
